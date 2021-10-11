@@ -4,3 +4,4 @@
 **Tasks List**|**Description**|**Status**
 --------------|---------------|-------------
 [Task-00](https://github.com/HARSHITH-MANDLI/amfoss-tasks/tree/main/task-00)|Installing ubuntu|Completed
+[Task-01]()|Starring amFOSS repos|Completed
